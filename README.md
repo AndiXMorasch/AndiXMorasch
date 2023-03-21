@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I'm a computer science student from Germany<br>😍I like Java and all kind of webebdevelopment<br>💡 I'm currently learning Unity
+👨‍💻 I'm a computer science student from Germany<br>😍I like Java and all kind of webdevelopment<br>💡 I'm currently learning Unity
 
 
 # 💻 Tech Stack:
