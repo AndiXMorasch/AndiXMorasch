@@ -1,6 +1,8 @@
 # 💫 About Me:
 👨‍💻 Computer science student from Germany<br>😍 I like Java and all kind of Frontend-Webdevelopment<br>💡 I'm currently learning Vue.js / Nuxt / Supabase
 
+## 🌜 People accidentally clicked on my profile:
+[![](https://visitcount.itsvg.in/api?id=AndiXMorasch&icon=0&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18690922) 
